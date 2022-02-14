@@ -1,2 +1,2 @@
 fps = 60
-speed = 150
+speed = 75
